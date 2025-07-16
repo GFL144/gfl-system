@@ -1,0 +1,9 @@
+psutil
+flask
+requests
+watchdog
+pillow
+cryptography
+pyautogui
+numpy
+matplotlib
