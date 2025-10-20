@@ -1,0 +1,17 @@
+[2025-10-18 22:48:57] INFO: Queue items: 3
+[2025-10-18 22:48:57] INFO: Batch OK=0 FAIL=3 NOTMOD=0
+[2025-10-18 22:48:57] INFO: Uploading artifacts via rclone...
+[2025-10-18 22:48:58] WARN: rclone upload failed (non-zero exit)
+[2025-10-18 22:48:58] INFO: Queue download complete.
+[2025-10-18 22:50:17] INFO: Queue items: 3
+[2025-10-18 22:50:17] INFO: Batch OK=0 FAIL=3 NOTMOD=0
+[2025-10-18 22:50:17] INFO: Uploading artifacts via rclone...
+[2025-10-18 22:50:18] WARN: rclone upload failed (non-zero exit)
+[2025-10-18 22:50:18] INFO: Queue download complete.
+[2025-10-18 22:54:01] INFO: Queue items: 34
+[2025-10-18 22:54:02] INFO: Batch OK=0 FAIL=16 NOTMOD=0
+[2025-10-18 22:54:02] INFO: Batch OK=0 FAIL=16 NOTMOD=0
+[2025-10-18 22:54:02] INFO: Batch OK=0 FAIL=2 NOTMOD=0
+[2025-10-18 22:54:02] INFO: Uploading artifacts via rclone...
+[2025-10-18 22:54:04] WARN: rclone upload failed (non-zero exit)
+[2025-10-18 22:54:04] INFO: Queue download complete.
