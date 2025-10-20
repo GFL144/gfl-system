@@ -1,0 +1,29 @@
+Wrote manifest: C:\GFL-System\Manifests\core-manifest.json (files: 4060)
+[31;1mGet-FileHash: [0mC:\GFL-System\Scripts\GFL-Manifest-Builder.ps1:18[0m
+[31;1m[0m[36;1mLine |[0m
+[31;1m[0m[36;1m[36;1m  18 | [0m   $sha = ([36;1mGet-FileHash -Path $f.FullName -Algorithm SHA256[0m).Hash.ToLo .[0m
+[31;1m[0m[36;1m[36;1m[0m[36;1m[0m[36;1m     | [31;1m           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[31;1m[0m[36;1m[36;1m[0m[36;1m[0m[36;1m[31;1m[31;1m[36;1m     | [31;1mThe process cannot access the file 'C:\GFL-System\Reports\discovery-fetch.log' because it is being used by[0m
+[31;1m[0m[36;1m[36;1m[0m[36;1m[0m[36;1m[31;1m[31;1m[36;1m[31;1m[36;1m     | [31;1manother process.[0m
+[31;1mGet-FileHash: [0mC:\GFL-System\Scripts\GFL-Manifest-Builder.ps1:18[0m
+[31;1m[0m[36;1mLine |[0m
+[31;1m[0m[36;1m[36;1m  18 | [0m   $sha = ([36;1mGet-FileHash -Path $f.FullName -Algorithm SHA256[0m).Hash.ToLo .[0m
+[31;1m[0m[36;1m[36;1m[0m[36;1m[0m[36;1m     | [31;1m           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[31;1m[0m[36;1m[36;1m[0m[36;1m[0m[36;1m[31;1m[31;1m[36;1m     | [31;1mThe process cannot access the file 'C:\GFL-System\Reports\discovery-fetch.log' because it is being used by[0m
+[31;1m[0m[36;1m[36;1m[0m[36;1m[0m[36;1m[31;1m[31;1m[36;1m[31;1m[36;1m     | [31;1manother process.[0m
+[31;1mGet-FileHash: [0mC:\GFL-System\Scripts\GFL-Manifest-Builder.ps1:18[0m
+[31;1m[0m[36;1mLine |[0m
+[31;1m[0m[36;1m[36;1m  18 | [0m   $sha = ([36;1mGet-FileHash -Path $f.FullName -Algorithm SHA256[0m).Hash.ToLo .[0m
+[31;1m[0m[36;1m[36;1m[0m[36;1m[0m[36;1m     | [31;1m           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[31;1m[0m[36;1m[36;1m[0m[36;1m[0m[36;1m[31;1m[31;1m[36;1m     | [31;1mThe process cannot access the file 'C:\GFL-System\Reports\discovery-fetch.log' because it is being used by[0m
+[31;1m[0m[36;1m[36;1m[0m[36;1m[0m[36;1m[31;1m[31;1m[36;1m[31;1m[36;1m     | [31;1manother process.[0m
+Wrote manifest: C:\GFL-System\Manifests\core-manifest.json (files: 4068)
+Wrote manifest: C:\GFL-System\Manifests\core-manifest.json (files: 4071)
+Wrote manifest: C:\GFL-System\Manifests\core-manifest.json (files: 4072)
+Wrote manifest: C:\GFL-System\Manifests\core-manifest.json (files: 4074)
+Wrote manifest: C:\GFL-System\Manifests\core-manifest.json (files: 4077)
+Wrote manifest: C:\GFL-System\Manifests\core-manifest.json (files: 4079)
+Wrote manifest: C:\GFL-System\Manifests\core-manifest.json (files: 4079)
+Wrote manifest: C:\GFL-System\Manifests\core-manifest.json (files: 4088)
+Wrote manifest: C:\GFL-System\Manifests\core-manifest.json (files: 4199)
+Wrote manifest: C:\GFL-System\Manifests\core-manifest.json (files: 6695)
