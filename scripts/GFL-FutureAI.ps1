@@ -1,4 +1,5 @@
-﻿[CmdletBinding()] param()
+﻿[CmdletBinding()] param([switch]$Run)
+[CmdletBinding()] param()
 $Root="C:\GFL-System"
 $TaskFile=Join-Path $Root "Reports\future_tasks.json"
 $ideas=@(
@@ -10,3 +11,4 @@ $ideas=@(
 )
 $ideas|ConvertTo-Json -Depth 5|Set-Content $TaskFile -Encoding UTF8
 Write-Host " FutureAI tasks seeded  $TaskFile"
+
