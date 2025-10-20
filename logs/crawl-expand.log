@@ -1,0 +1,272 @@
+[2025-10-18 22:45:41] INFO: GET https://github.com/PowerShell/PSReadLine
+[2025-10-18 22:45:43] INFO: GET https://learn.microsoft.com/powershell/
+[2025-10-18 22:45:43] INFO: GET https://github.com/fluidicon.png
+[2025-10-18 22:45:43] INFO: GET https://github.com/features/copilot
+[2025-10-18 22:45:44] INFO: GET https://github.com/features/spark
+[2025-10-18 22:45:45] INFO: GET https://github.com/features/models
+[2025-10-18 22:45:46] INFO: GET https://github.com/security/advanced-security
+[2025-10-18 22:45:46] INFO: GET https://github.com/features/actions
+[2025-10-18 22:45:46] INFO: GET https://github.com/features/codespaces
+[2025-10-18 22:45:47] INFO: GET https://github.com/features/issues
+[2025-10-18 22:45:47] INFO: GET https://github.com/features/code-review
+[2025-10-18 22:45:48] INFO: GET https://github.com/features/discussions
+[2025-10-18 22:45:48] INFO: GET https://github.com/features/code-search
+[2025-10-18 22:45:49] INFO: GET https://github.com/why-github
+[2025-10-18 22:45:49] INFO: GET https://github.com/marketplace
+[2025-10-18 22:45:50] INFO: GET https://github.com/mcp
+[2025-10-18 22:45:51] INFO: GET https://github.com/features
+[2025-10-18 22:45:52] INFO: GET https://github.com/enterprise
+[2025-10-18 22:45:53] INFO: GET https://github.com/team
+[2025-10-18 22:45:54] INFO: GET https://github.com/enterprise/startups
+[2025-10-18 22:45:54] INFO: GET https://github.com/resources/events
+[2025-10-18 22:45:55] INFO: GET https://github.com/resources/whitepapers
+[2025-10-18 22:45:55] INFO: GET https://github.com/customer-stories
+[2025-10-18 22:45:56] INFO: GET https://github.com/partners
+[2025-10-18 22:45:56] INFO: GET https://github.com/solutions/executive-insights
+[2025-10-18 22:45:57] INFO: GET https://github.com/readme
+[2025-10-18 22:45:57] INFO: GET https://github.com/topics
+[2025-10-18 22:45:58] INFO: GET https://github.com/trending
+[2025-10-18 22:46:00] INFO: GET https://github.com/collections
+[2025-10-18 22:46:00] INFO: GET https://github.com/pricing
+[2025-10-18 22:46:01] INFO: GET https://learn.microsoft.com/en-us/powershell/gallery/powershellget/install-powershellget
+[2025-10-18 22:46:01] INFO: GET https://github.com/PowerShell/PSReadLine/blob/master/PSReadLine/SamplePSReadLineProfile.ps1
+[2025-10-18 22:46:02] INFO: GET https://github.com/PowerShell/PSReadLine/blob/master/.github/CONTRIBUTING.md
+[2025-10-18 22:46:03] INFO: GET https://github.com/PowerShell/PSReadLine/blob/master/PSReadLine/Changes.txt
+[2025-10-18 22:46:03] INFO: GET https://github.com/PowerShell/PSReadLine/blob/master/License.txt
+[2025-10-18 22:46:04] INFO: GET https://github.com/lzybkr
+[2025-10-18 22:46:05] INFO: GET https://github.com/daxian-dbw
+[2025-10-18 22:46:05] INFO: GET https://github.com/srdubya
+[2025-10-18 22:46:06] INFO: GET https://github.com/springcomp
+[2025-10-18 22:46:06] INFO: GET https://github.com/andyleejordan
+[2025-10-18 22:46:07] INFO: GET https://github.com/SteveL-MSFT
+[2025-10-18 22:46:07] INFO: GET https://github.com/jazzdelightsme
+[2025-10-18 22:46:08] INFO: GET https://github.com/msftrncs
+[2025-10-18 22:46:08] INFO: GET https://github.com/cbadke
+[2025-10-18 22:46:09] INFO: GET https://github.com/StevenBucher98
+[2025-10-18 22:46:09] INFO: GET https://github.com/TylerLeonhardt
+[2025-10-18 22:46:10] INFO: GET https://github.com/theaquamarine
+[2025-10-18 22:46:10] INFO: GET https://github.com/parkovski
+[2025-10-18 22:46:11] INFO: GET https://github.com/bingbing8
+[2025-10-18 22:46:11] INFO: GET https://github.com
+[2025-10-18 22:46:12] INFO: GET https://github.com/security
+[2025-10-18 22:46:12] INFO: GET https://learn.microsoft.com/en-us/powershell/
+[2025-10-18 22:46:12] INFO: GET https://learn.microsoft.com/en-us/lifecycle/faq/internet-explorer-microsoft-edge
+[2025-10-18 22:46:12] INFO: GET https://github.com/PowerShell/PowerShell
+[2025-10-18 22:46:13] INFO: GET https://aka.ms/psusergroup
+[2025-10-18 22:46:15] INFO: GET https://aka.ms/psslack
+[2025-10-18 22:46:16] INFO: GET https://aka.ms/psdiscord
+[2025-10-18 22:46:17] INFO: GET https://github.com/powershell/powershell/issues
+[2025-10-18 22:46:18] INFO: GET https://learn.microsoft.com/en-us/principles-for-ai-generated-content
+[2025-10-18 22:46:18] INFO: GET https://learn.microsoft.com/en-us/previous-versions/
+[2025-10-18 22:46:19] INFO: GET https://learn.microsoft.com/en-us/contribute
+[2025-10-18 22:48:54] INFO: GET https://github.com/PowerShell/PSReadLine
+[2025-10-18 22:48:55] WARN: Fetch error: https://github.com/PowerShell/PSReadLine => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:48:55] INFO: GET https://learn.microsoft.com/powershell/
+[2025-10-18 22:48:55] WARN: Fetch error: https://learn.microsoft.com/powershell/ => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:48:55] INFO: GET https://raw.githubusercontent.com/PowerShell/PowerShell/master/tools/install-powershell.ps1
+[2025-10-18 22:48:56] WARN: Fetch error: https://raw.githubusercontent.com/PowerShell/PowerShell/master/tools/install-powershell.ps1 => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:48:56] INFO: Wrote queue: 3 items -> C:\GFL-System\Manifests\queue.txt
+[2025-10-18 22:53:42] INFO: GET https://github.com/PowerShell/PSReadLine
+[2025-10-18 22:53:43] WARN: Fetch error: https://github.com/PowerShell/PSReadLine => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:43] INFO: GET https://learn.microsoft.com/powershell/
+[2025-10-18 22:53:43] WARN: Fetch error: https://learn.microsoft.com/powershell/ => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:43] INFO: GET https://raw.githubusercontent.com/PowerShell/PowerShell/master/tools/install-powershell.ps1
+[2025-10-18 22:53:43] WARN: Fetch error: https://raw.githubusercontent.com/PowerShell/PowerShell/master/tools/install-powershell.ps1 => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:43] INFO: GET https://learn.microsoft.com/en-us/windows/package-manager/winget/
+[2025-10-18 22:53:44] WARN: Fetch error: https://learn.microsoft.com/en-us/windows/package-manager/winget/ => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:44] INFO: GET https://learn.microsoft.com/en-us/powershell/scripting/overview
+[2025-10-18 22:53:44] WARN: Fetch error: https://learn.microsoft.com/en-us/powershell/scripting/overview => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:44] INFO: GET https://learn.microsoft.com/en-us/powershell/module/psscriptanalyzer/
+[2025-10-18 22:53:45] WARN: Fetch error: https://learn.microsoft.com/en-us/powershell/module/psscriptanalyzer/ => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:45] INFO: GET https://learn.microsoft.com/en-us/windows/win32/bits/background-intelligent-transfer-service-portal
+[2025-10-18 22:53:45] WARN: Fetch error: https://learn.microsoft.com/en-us/windows/win32/bits/background-intelligent-transfer-service-portal => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:45] INFO: GET https://learn.microsoft.com/en-us/windows/security/operating-system-security/virus-and-threat-protection/microsoft-defender-antivirus/command-line-arguments-microsoft-defender-antivirus
+[2025-10-18 22:53:45] INFO: GET https://github.com/PowerShell/PowerShell
+[2025-10-18 22:53:46] WARN: Fetch error: https://github.com/PowerShell/PowerShell => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:46] INFO: GET https://github.com/rclone/rclone
+[2025-10-18 22:53:47] WARN: Fetch error: https://github.com/rclone/rclone => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:47] INFO: GET https://rclone.org/docs/
+[2025-10-18 22:53:49] WARN: Fetch error: https://rclone.org/docs/ => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:49] INFO: GET https://github.com/aria2/aria2
+[2025-10-18 22:53:50] WARN: Fetch error: https://github.com/aria2/aria2 => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:50] INFO: GET https://docs.github.com/en/rest
+[2025-10-18 22:53:52] WARN: Fetch error: https://docs.github.com/en/rest => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:52] INFO: GET https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10
+[2025-10-18 22:53:52] WARN: Fetch error: https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10 => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:52] INFO: GET https://duckduckgo.com/?q=bits%20transfer
+[2025-10-18 22:53:52] WARN: Fetch error: https://duckduckgo.com/?q=bits%20transfer => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:52] INFO: GET https://duckduckgo.com/?q=defender%20mpcmdrun
+[2025-10-18 22:53:52] WARN: Fetch error: https://duckduckgo.com/?q=defender%20mpcmdrun => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:52] INFO: GET https://duckduckgo.com/?q=powershell%20remoting
+[2025-10-18 22:53:53] WARN: Fetch error: https://duckduckgo.com/?q=powershell%20remoting => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:53] INFO: GET https://duckduckgo.com/?q=rclone%20windows
+[2025-10-18 22:53:53] WARN: Fetch error: https://duckduckgo.com/?q=rclone%20windows => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:53] INFO: GET https://duckduckgo.com/?q=script%20analyzer%20rules
+[2025-10-18 22:53:53] WARN: Fetch error: https://duckduckgo.com/?q=script%20analyzer%20rules => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:53] INFO: GET https://github.com/search?q=bits%20transfer&type=code
+[2025-10-18 22:53:53] WARN: Fetch error: https://github.com/search?q=bits%20transfer&type=code => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:53] INFO: GET https://github.com/search?q=bits%20transfer&type=repositories
+[2025-10-18 22:53:54] WARN: Fetch error: https://github.com/search?q=bits%20transfer&type=repositories => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:54] INFO: GET https://github.com/search?q=defender%20mpcmdrun&type=code
+[2025-10-18 22:53:54] WARN: Fetch error: https://github.com/search?q=defender%20mpcmdrun&type=code => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:54] INFO: GET https://github.com/search?q=defender%20mpcmdrun&type=repositories
+[2025-10-18 22:53:54] WARN: Fetch error: https://github.com/search?q=defender%20mpcmdrun&type=repositories => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:54] INFO: GET https://github.com/search?q=powershell%20remoting&type=code
+[2025-10-18 22:53:55] WARN: Fetch error: https://github.com/search?q=powershell%20remoting&type=code => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:55] INFO: GET https://github.com/search?q=powershell%20remoting&type=repositories
+[2025-10-18 22:53:55] WARN: Fetch error: https://github.com/search?q=powershell%20remoting&type=repositories => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:55] INFO: GET https://github.com/search?q=rclone%20windows&type=code
+[2025-10-18 22:53:56] WARN: Fetch error: https://github.com/search?q=rclone%20windows&type=code => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:56] INFO: GET https://github.com/search?q=rclone%20windows&type=repositories
+[2025-10-18 22:53:56] WARN: Fetch error: https://github.com/search?q=rclone%20windows&type=repositories => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:56] INFO: GET https://github.com/search?q=script%20analyzer%20rules&type=code
+[2025-10-18 22:53:57] WARN: Fetch error: https://github.com/search?q=script%20analyzer%20rules&type=code => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:57] INFO: GET https://github.com/search?q=script%20analyzer%20rules&type=repositories
+[2025-10-18 22:53:57] WARN: Fetch error: https://github.com/search?q=script%20analyzer%20rules&type=repositories => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:57] INFO: GET https://learn.microsoft.com/search/?terms=bits%20transfer
+[2025-10-18 22:53:58] WARN: Fetch error: https://learn.microsoft.com/search/?terms=bits%20transfer => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:58] INFO: GET https://learn.microsoft.com/search/?terms=defender%20mpcmdrun
+[2025-10-18 22:53:59] WARN: Fetch error: https://learn.microsoft.com/search/?terms=defender%20mpcmdrun => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:59] INFO: GET https://learn.microsoft.com/search/?terms=powershell%20remoting
+[2025-10-18 22:53:59] WARN: Fetch error: https://learn.microsoft.com/search/?terms=powershell%20remoting => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:53:59] INFO: GET https://learn.microsoft.com/search/?terms=rclone%20windows
+[2025-10-18 22:54:00] WARN: Fetch error: https://learn.microsoft.com/search/?terms=rclone%20windows => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:54:00] INFO: GET https://learn.microsoft.com/search/?terms=script%20analyzer%20rules
+[2025-10-18 22:54:00] WARN: Fetch error: https://learn.microsoft.com/search/?terms=script%20analyzer%20rules => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:54:00] INFO: Wrote queue: 34 items -> C:\GFL-System\Manifests\queue.txt
+[2025-10-18 22:58:26] INFO: GET https://github.com/PowerShell/PSReadLine
+[2025-10-18 22:58:28] WARN: Fetch error: https://github.com/PowerShell/PSReadLine => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:28] INFO: GET https://learn.microsoft.com/powershell/
+[2025-10-18 22:58:28] WARN: Fetch error: https://learn.microsoft.com/powershell/ => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:28] INFO: GET https://raw.githubusercontent.com/PowerShell/PowerShell/master/tools/install-powershell.ps1
+[2025-10-18 22:58:28] WARN: Fetch error: https://raw.githubusercontent.com/PowerShell/PowerShell/master/tools/install-powershell.ps1 => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:28] INFO: GET https://learn.microsoft.com/en-us/windows/package-manager/winget/
+[2025-10-18 22:58:29] WARN: Fetch error: https://learn.microsoft.com/en-us/windows/package-manager/winget/ => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:29] INFO: GET https://learn.microsoft.com/en-us/powershell/scripting/overview
+[2025-10-18 22:58:29] WARN: Fetch error: https://learn.microsoft.com/en-us/powershell/scripting/overview => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:29] INFO: GET https://learn.microsoft.com/en-us/powershell/module/psscriptanalyzer/
+[2025-10-18 22:58:29] WARN: Fetch error: https://learn.microsoft.com/en-us/powershell/module/psscriptanalyzer/ => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:29] INFO: GET https://learn.microsoft.com/en-us/windows/win32/bits/background-intelligent-transfer-service-portal
+[2025-10-18 22:58:29] WARN: Fetch error: https://learn.microsoft.com/en-us/windows/win32/bits/background-intelligent-transfer-service-portal => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:29] INFO: GET https://learn.microsoft.com/en-us/windows/security/operating-system-security/virus-and-threat-protection/microsoft-defender-antivirus/command-line-arguments-microsoft-defender-antivirus
+[2025-10-18 22:58:29] INFO: GET https://github.com/PowerShell/PowerShell
+[2025-10-18 22:58:29] WARN: Fetch error: https://github.com/PowerShell/PowerShell => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:29] INFO: GET https://github.com/rclone/rclone
+[2025-10-18 22:58:30] WARN: Fetch error: https://github.com/rclone/rclone => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:30] INFO: GET https://rclone.org/docs/
+[2025-10-18 22:58:33] WARN: Fetch error: https://rclone.org/docs/ => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:33] INFO: GET https://github.com/aria2/aria2
+[2025-10-18 22:58:33] WARN: Fetch error: https://github.com/aria2/aria2 => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:33] INFO: GET https://docs.github.com/en/rest
+[2025-10-18 22:58:33] WARN: Fetch error: https://docs.github.com/en/rest => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:33] INFO: GET https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10
+[2025-10-18 22:58:34] WARN: Fetch error: https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10 => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:34] INFO: GET https://duckduckgo.com/?q=bits%20transfer
+[2025-10-18 22:58:34] WARN: Fetch error: https://duckduckgo.com/?q=bits%20transfer => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:34] INFO: GET https://duckduckgo.com/?q=defender%20mpcmdrun
+[2025-10-18 22:58:34] WARN: Fetch error: https://duckduckgo.com/?q=defender%20mpcmdrun => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:34] INFO: GET https://duckduckgo.com/?q=powershell%20remoting
+[2025-10-18 22:58:34] WARN: Fetch error: https://duckduckgo.com/?q=powershell%20remoting => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:34] INFO: GET https://duckduckgo.com/?q=rclone%20windows
+[2025-10-18 22:58:34] WARN: Fetch error: https://duckduckgo.com/?q=rclone%20windows => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:34] INFO: GET https://duckduckgo.com/?q=script%20analyzer%20rules
+[2025-10-18 22:58:34] WARN: Fetch error: https://duckduckgo.com/?q=script%20analyzer%20rules => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:34] INFO: GET https://github.com/search?q=bits%20transfer&type=code
+[2025-10-18 22:58:34] WARN: Fetch error: https://github.com/search?q=bits%20transfer&type=code => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:34] INFO: GET https://github.com/search?q=bits%20transfer&type=repositories
+[2025-10-18 22:58:35] WARN: Fetch error: https://github.com/search?q=bits%20transfer&type=repositories => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:35] INFO: GET https://github.com/search?q=defender%20mpcmdrun&type=code
+[2025-10-18 22:58:35] WARN: Fetch error: https://github.com/search?q=defender%20mpcmdrun&type=code => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:35] INFO: GET https://github.com/search?q=defender%20mpcmdrun&type=repositories
+[2025-10-18 22:58:36] WARN: Fetch error: https://github.com/search?q=defender%20mpcmdrun&type=repositories => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:36] INFO: GET https://github.com/search?q=powershell%20remoting&type=code
+[2025-10-18 22:58:36] WARN: Fetch error: https://github.com/search?q=powershell%20remoting&type=code => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:36] INFO: GET https://github.com/search?q=powershell%20remoting&type=repositories
+[2025-10-18 22:58:37] WARN: Fetch error: https://github.com/search?q=powershell%20remoting&type=repositories => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:37] INFO: GET https://github.com/search?q=rclone%20windows&type=code
+[2025-10-18 22:58:37] WARN: Fetch error: https://github.com/search?q=rclone%20windows&type=code => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:37] INFO: GET https://github.com/search?q=rclone%20windows&type=repositories
+[2025-10-18 22:58:38] WARN: Fetch error: https://github.com/search?q=rclone%20windows&type=repositories => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:38] INFO: GET https://github.com/search?q=script%20analyzer%20rules&type=code
+[2025-10-18 22:58:38] WARN: Fetch error: https://github.com/search?q=script%20analyzer%20rules&type=code => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:38] INFO: GET https://github.com/search?q=script%20analyzer%20rules&type=repositories
+[2025-10-18 22:58:39] WARN: Fetch error: https://github.com/search?q=script%20analyzer%20rules&type=repositories => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:39] INFO: GET https://learn.microsoft.com/search/?terms=bits%20transfer
+[2025-10-18 22:58:39] WARN: Fetch error: https://learn.microsoft.com/search/?terms=bits%20transfer => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:39] INFO: GET https://learn.microsoft.com/search/?terms=defender%20mpcmdrun
+[2025-10-18 22:58:39] WARN: Fetch error: https://learn.microsoft.com/search/?terms=defender%20mpcmdrun => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:39] INFO: GET https://learn.microsoft.com/search/?terms=powershell%20remoting
+[2025-10-18 22:58:40] WARN: Fetch error: https://learn.microsoft.com/search/?terms=powershell%20remoting => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:40] INFO: GET https://learn.microsoft.com/search/?terms=rclone%20windows
+[2025-10-18 22:58:40] WARN: Fetch error: https://learn.microsoft.com/search/?terms=rclone%20windows => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:40] INFO: GET https://learn.microsoft.com/search/?terms=script%20analyzer%20rules
+[2025-10-18 22:58:40] WARN: Fetch error: https://learn.microsoft.com/search/?terms=script%20analyzer%20rules => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 22:58:40] INFO: Wrote queue: 34 items -> C:\GFL-System\Manifests\queue.txt
+[2025-10-18 23:01:42] INFO: GET https://github.com/PowerShell/PSReadLine
+[2025-10-18 23:01:44] WARN: Fetch error: https://github.com/PowerShell/PSReadLine => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:44] INFO: GET https://learn.microsoft.com/powershell/
+[2025-10-18 23:01:45] WARN: Fetch error: https://learn.microsoft.com/powershell/ => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:45] INFO: GET https://raw.githubusercontent.com/PowerShell/PowerShell/master/tools/install-powershell.ps1
+[2025-10-18 23:01:45] WARN: Fetch error: https://raw.githubusercontent.com/PowerShell/PowerShell/master/tools/install-powershell.ps1 => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:45] INFO: GET https://learn.microsoft.com/en-us/windows/package-manager/winget/
+[2025-10-18 23:01:45] WARN: Fetch error: https://learn.microsoft.com/en-us/windows/package-manager/winget/ => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:45] INFO: GET https://learn.microsoft.com/en-us/powershell/scripting/overview
+[2025-10-18 23:01:45] WARN: Fetch error: https://learn.microsoft.com/en-us/powershell/scripting/overview => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:45] INFO: GET https://learn.microsoft.com/en-us/powershell/module/psscriptanalyzer/
+[2025-10-18 23:01:45] WARN: Fetch error: https://learn.microsoft.com/en-us/powershell/module/psscriptanalyzer/ => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:45] INFO: GET https://learn.microsoft.com/en-us/windows/win32/bits/background-intelligent-transfer-service-portal
+[2025-10-18 23:01:45] WARN: Fetch error: https://learn.microsoft.com/en-us/windows/win32/bits/background-intelligent-transfer-service-portal => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:45] INFO: GET https://learn.microsoft.com/en-us/windows/security/operating-system-security/virus-and-threat-protection/microsoft-defender-antivirus/command-line-arguments-microsoft-defender-antivirus
+[2025-10-18 23:01:45] INFO: GET https://github.com/PowerShell/PowerShell
+[2025-10-18 23:01:46] WARN: Fetch error: https://github.com/PowerShell/PowerShell => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:46] INFO: GET https://github.com/rclone/rclone
+[2025-10-18 23:01:46] WARN: Fetch error: https://github.com/rclone/rclone => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:46] INFO: GET https://rclone.org/docs/
+[2025-10-18 23:01:49] WARN: Fetch error: https://rclone.org/docs/ => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:49] INFO: GET https://github.com/aria2/aria2
+[2025-10-18 23:01:50] WARN: Fetch error: https://github.com/aria2/aria2 => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:50] INFO: GET https://docs.github.com/en/rest
+[2025-10-18 23:01:50] WARN: Fetch error: https://docs.github.com/en/rest => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:50] INFO: GET https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10
+[2025-10-18 23:01:50] WARN: Fetch error: https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10 => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:50] INFO: GET https://duckduckgo.com/?q=bits%20transfer
+[2025-10-18 23:01:50] WARN: Fetch error: https://duckduckgo.com/?q=bits%20transfer => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:50] INFO: GET https://duckduckgo.com/?q=defender%20mpcmdrun
+[2025-10-18 23:01:50] WARN: Fetch error: https://duckduckgo.com/?q=defender%20mpcmdrun => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:50] INFO: GET https://duckduckgo.com/?q=powershell%20remoting
+[2025-10-18 23:01:50] WARN: Fetch error: https://duckduckgo.com/?q=powershell%20remoting => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:50] INFO: GET https://duckduckgo.com/?q=rclone%20windows
+[2025-10-18 23:01:50] WARN: Fetch error: https://duckduckgo.com/?q=rclone%20windows => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:50] INFO: GET https://duckduckgo.com/?q=script%20analyzer%20rules
+[2025-10-18 23:01:50] WARN: Fetch error: https://duckduckgo.com/?q=script%20analyzer%20rules => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:50] INFO: GET https://github.com/search?q=bits%20transfer&type=code
+[2025-10-18 23:01:51] WARN: Fetch error: https://github.com/search?q=bits%20transfer&type=code => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:51] INFO: GET https://github.com/search?q=bits%20transfer&type=repositories
+[2025-10-18 23:01:51] WARN: Fetch error: https://github.com/search?q=bits%20transfer&type=repositories => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:51] INFO: GET https://github.com/search?q=defender%20mpcmdrun&type=code
+[2025-10-18 23:01:52] WARN: Fetch error: https://github.com/search?q=defender%20mpcmdrun&type=code => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:52] INFO: GET https://github.com/search?q=defender%20mpcmdrun&type=repositories
+[2025-10-18 23:01:52] WARN: Fetch error: https://github.com/search?q=defender%20mpcmdrun&type=repositories => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:52] INFO: GET https://github.com/search?q=powershell%20remoting&type=code
+[2025-10-18 23:01:52] WARN: Fetch error: https://github.com/search?q=powershell%20remoting&type=code => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:52] INFO: GET https://github.com/search?q=powershell%20remoting&type=repositories
+[2025-10-18 23:01:53] WARN: Fetch error: https://github.com/search?q=powershell%20remoting&type=repositories => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:53] INFO: GET https://github.com/search?q=rclone%20windows&type=code
+[2025-10-18 23:01:53] WARN: Fetch error: https://github.com/search?q=rclone%20windows&type=code => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:53] INFO: GET https://github.com/search?q=rclone%20windows&type=repositories
+[2025-10-18 23:01:54] WARN: Fetch error: https://github.com/search?q=rclone%20windows&type=repositories => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:54] INFO: GET https://github.com/search?q=script%20analyzer%20rules&type=code
+[2025-10-18 23:01:54] WARN: Fetch error: https://github.com/search?q=script%20analyzer%20rules&type=code => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:54] INFO: GET https://github.com/search?q=script%20analyzer%20rules&type=repositories
+[2025-10-18 23:01:55] WARN: Fetch error: https://github.com/search?q=script%20analyzer%20rules&type=repositories => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:55] INFO: GET https://learn.microsoft.com/search/?terms=bits%20transfer
+[2025-10-18 23:01:55] WARN: Fetch error: https://learn.microsoft.com/search/?terms=bits%20transfer => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:55] INFO: GET https://learn.microsoft.com/search/?terms=defender%20mpcmdrun
+[2025-10-18 23:01:55] WARN: Fetch error: https://learn.microsoft.com/search/?terms=defender%20mpcmdrun => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:55] INFO: GET https://learn.microsoft.com/search/?terms=powershell%20remoting
+[2025-10-18 23:01:55] WARN: Fetch error: https://learn.microsoft.com/search/?terms=powershell%20remoting => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:55] INFO: GET https://learn.microsoft.com/search/?terms=rclone%20windows
+[2025-10-18 23:01:55] WARN: Fetch error: https://learn.microsoft.com/search/?terms=rclone%20windows => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:55] INFO: GET https://learn.microsoft.com/search/?terms=script%20analyzer%20rules
+[2025-10-18 23:01:56] WARN: Fetch error: https://learn.microsoft.com/search/?terms=script%20analyzer%20rules => Cannot overwrite variable Host because it is read-only or constant.
+[2025-10-18 23:01:56] INFO: Wrote queue: 34 items -> C:\GFL-System\Manifests\queue.txt
