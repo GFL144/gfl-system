@@ -1,0 +1,30 @@
+[2025-10-18 22:49:36] INFO: Defender scan: C:\GFL-System\Quarantine
+[2025-10-18 22:49:37] INFO: Defender scan: C:\GFL-System\Staging\Discovery\Fetched
+[2025-10-18 22:50:05] INFO: ScriptAnalyzer: files=45 issues=290
+[2025-10-18 22:50:05] INFO: Uploading safety artifacts via rclone...
+[2025-10-18 22:50:06] WARN: rclone upload failed (non-zero exit)
+[2025-10-18 22:50:06] INFO: Safety scan complete.
+[2025-10-18 22:54:45] INFO: Defender scan: C:\GFL-System\Quarantine
+[2025-10-18 22:54:46] INFO: Defender scan: C:\GFL-System\Staging\Discovery\Fetched
+[2025-10-18 22:55:10] INFO: ScriptAnalyzer: files=48 issues=297
+[2025-10-18 22:55:10] INFO: Uploading safety artifacts via rclone...
+[2025-10-18 22:55:11] WARN: rclone upload failed (non-zero exit)
+[2025-10-18 22:55:11] INFO: Safety scan complete.
+[2025-10-18 22:59:18] INFO: Defender scan: C:\GFL-System\Quarantine
+[2025-10-18 22:59:19] INFO: Defender scan: C:\GFL-System\Staging\Discovery\Fetched
+[2025-10-18 22:59:43] INFO: ScriptAnalyzer: files=48 issues=302
+[2025-10-18 22:59:43] INFO: Uploading safety artifacts via rclone...
+[2025-10-18 22:59:44] WARN: rclone upload failed (non-zero exit)
+[2025-10-18 22:59:44] INFO: Safety scan complete.
+[2025-10-18 23:02:39] INFO: Defender scan: C:\GFL-System\Quarantine
+[2025-10-18 23:02:41] INFO: Defender scan: C:\GFL-System\Staging\Discovery\Fetched
+[2025-10-18 23:03:04] INFO: ScriptAnalyzer: files=48 issues=302
+[2025-10-18 23:03:04] INFO: Uploading safety artifacts via rclone...
+[2025-10-18 23:03:05] WARN: rclone upload failed (non-zero exit)
+[2025-10-18 23:03:05] INFO: Safety scan complete.
+[2025-10-18 23:45:37] INFO: Defender scan: C:\GFL-System\Quarantine
+[2025-10-18 23:45:38] INFO: Defender scan: C:\GFL-System\Staging\Discovery\Fetched
+[2025-10-18 23:52:22] INFO: ScriptAnalyzer: files=1582 issues=21049
+[2025-10-18 23:52:22] INFO: Uploading safety artifacts via rclone...
+[2025-10-18 23:52:23] WARN: rclone upload failed (non-zero exit)
+[2025-10-18 23:52:23] INFO: Safety scan complete.
