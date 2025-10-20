@@ -1,0 +1,97 @@
+[
+  "[2025-10-18 23:44:02] INFO: Scanning C:\\GFL-System for issues...",
+  [
+    {
+      "path": "C:\\GFL-System\\Scripts\\Modules\\Az.MachineLearningServices\\1.2.0\\MachineLearningServices.Autorest\\custom\\New-AzMLWorkspaceCommandJobObject.ps1",
+      "action": "Fix-PsCompat"
+    },
+    {
+      "path": "C:\\GFL-System\\Scripts\\Modules\\Az.MachineLearningServices\\1.2.0\\MachineLearningServices.Autorest\\custom\\New-AzMLWorkspacePipelineJobObject.ps1",
+      "action": "Fix-PsCompat"
+    },
+    {
+      "path": "C:\\GFL-System\\Scripts\\Modules\\Az.MachineLearningServices\\1.2.0\\MachineLearningServices.Autorest\\custom\\New-AzMLWorkspaceSweepJobObject.ps1",
+      "action": "Fix-PsCompat"
+    },
+    {
+      "path": "C:\\GFL-System\\Scripts\\Modules\\Az.MachineLearningServices\\1.2.0\\MachineLearningServices.Autorest\\custom\\autogen-model-cmdlets\\New-AzMLWorkspaceComputeStartStopScheduleObject.ps1",
+      "action": "Fix-PsCompat"
+    },
+    {
+      "path": "C:\\GFL-System\\Scripts\\Modules\\Az.MachineLearningServices\\1.2.0\\MachineLearningServices.Autorest\\exports\\ProxyCmdletDefinitions.ps1",
+      "action": "Fix-PsCompat"
+    },
+    {
+      "path": "C:\\GFL-System\\Scripts\\Modules\\PSReadLine\\2.3.6\\PSReadLine.psm1",
+      "action": "Fix-PsCompat"
+    },
+    {
+      "path": "C:\\GFL-System\\Scripts\\Modules\\PSScriptAnalyzer\\1.24.0\\ThirdPartyNotices.txt",
+      "action": "Fix-LineEndings"
+    },
+    {
+      "path": "C:\\GFL-System\\Scripts\\Modules\\PSScriptAnalyzer\\1.24.0\\compatibility_profiles\\ubuntu_x64_18.04_6.2.4_x64_4.0.30319.42000_core.json",
+      "action": "Fix-LineEndings"
+    },
+    {
+      "path": "C:\\GFL-System\\Scripts\\Modules\\PSScriptAnalyzer\\1.24.0\\compatibility_profiles\\ubuntu_x64_18.04_7.0.0_x64_3.1.2_core.json",
+      "action": "Fix-LineEndings"
+    },
+    {
+      "path": "C:\\GFL-System\\Scripts\\Modules\\PSScriptAnalyzer\\1.24.0\\compatibility_profiles\\win-4_x64_10.0.18362.0_6.2.4_x64_4.0.30319.42000_core.json",
+      "action": "Fix-LineEndings"
+    },
+    {
+      "path": "C:\\GFL-System\\Scripts\\Modules\\PSScriptAnalyzer\\1.24.0\\compatibility_profiles\\win-4_x64_10.0.18362.0_7.0.0_x64_3.1.2_core.json",
+      "action": "Fix-LineEndings"
+    },
+    {
+      "path": "C:\\GFL-System\\Scripts\\Modules\\PSScriptAnalyzer\\1.24.0\\compatibility_profiles\\win-8_x64_10.0.14393.0_6.2.4_x64_4.0.30319.42000_core.json",
+      "action": "Fix-LineEndings"
+    },
+    {
+      "path": "C:\\GFL-System\\Scripts\\Modules\\PSScriptAnalyzer\\1.24.0\\compatibility_profiles\\win-8_x64_10.0.14393.0_7.0.0_x64_3.1.2_core.json",
+      "action": "Fix-LineEndings"
+    },
+    {
+      "path": "C:\\GFL-System\\Scripts\\Modules\\PSScriptAnalyzer\\1.24.0\\compatibility_profiles\\win-8_x64_10.0.17763.0_6.2.4_x64_4.0.30319.42000_core.json",
+      "action": "Fix-LineEndings"
+    },
+    {
+      "path": "C:\\GFL-System\\Scripts\\Modules\\PSScriptAnalyzer\\1.24.0\\compatibility_profiles\\win-8_x64_10.0.17763.0_7.0.0_x64_3.1.2_core.json",
+      "action": "Fix-LineEndings"
+    },
+    {
+      "path": "C:\\GFL-System\\Scripts\\Modules\\PSScriptAnalyzer\\1.24.0\\Settings\\core-6.1.0-linux-arm.json",
+      "action": "Fix-LineEndings"
+    },
+    {
+      "path": "C:\\GFL-System\\Scripts\\Modules\\PSScriptAnalyzer\\1.24.0\\Settings\\core-6.1.0-linux.json",
+      "action": "Fix-LineEndings"
+    },
+    {
+      "path": "C:\\GFL-System\\Scripts\\Modules\\PSScriptAnalyzer\\1.24.0\\Settings\\core-6.1.0-macos.json",
+      "action": "Fix-LineEndings"
+    },
+    {
+      "path": "C:\\GFL-System\\Scripts\\Modules\\PSScriptAnalyzer\\1.24.0\\Settings\\core-6.1.0-windows.json",
+      "action": "Fix-LineEndings"
+    },
+    {
+      "path": "C:\\GFL-System\\Scripts\\Modules\\PSScriptAnalyzer\\1.24.0\\Settings\\desktop-2.0-windows.json",
+      "action": "Fix-LineEndings"
+    },
+    {
+      "path": "C:\\GFL-System\\Scripts\\Modules\\PSScriptAnalyzer\\1.24.0\\Settings\\desktop-3.0-windows.json",
+      "action": "Fix-LineEndings"
+    },
+    {
+      "path": "C:\\GFL-System\\Scripts\\Modules\\PSScriptAnalyzer\\1.24.0\\Settings\\desktop-4.0-windows.json",
+      "action": "Fix-LineEndings"
+    },
+    {
+      "path": "C:\\GFL-System\\Scripts\\Modules\\PSScriptAnalyzer\\1.24.0\\Settings\\desktop-5.1.14393.206-windows.json",
+      "action": "Fix-LineEndings"
+    }
+  ]
+]
