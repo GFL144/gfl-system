@@ -1,0 +1,4 @@
+﻿[19/10/2025 3:35:34 AM] Wrote default config  C:\GFL-System\Configs\autoforge.json (edit targets/tokens as you like).
+[19/10/2025 3:35:38 AM] Backed up current targets  
+[19/10/2025 3:35:38 AM] Forge pass complete. Changed: 0. Log  C:\GFL-System\Reports\logs\autoforge-20251019-033534.log
+[19/10/2025 3:35:40 AM] Scheduling failed: The term 'New-ScheduledTaskRepetitionSettings' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
